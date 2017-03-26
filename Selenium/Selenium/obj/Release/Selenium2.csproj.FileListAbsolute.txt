@@ -1,0 +1,12 @@
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\Selenium.exe.config
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\Selenium.exe
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\Selenium.pdb
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\nunit.framework.dll
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\WebDriver.dll
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\WebDriver.Support.dll
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\nunit.framework.xml
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\WebDriver.xml
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\bin\Release\WebDriver.Support.xml
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\obj\Release\Selenium2.csprojResolveAssemblyReference.cache
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\obj\Release\Selenium.exe
+C:\Users\Przemek\documents\visual studio 2017\Projects\Selenium\Selenium\obj\Release\Selenium.pdb
